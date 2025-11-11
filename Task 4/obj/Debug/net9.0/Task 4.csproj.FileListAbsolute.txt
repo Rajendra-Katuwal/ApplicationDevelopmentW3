@@ -1,0 +1,15 @@
+D:\CollegeDotnetSolutions\Week3\Task 4\bin\Debug\net9.0\Task 4.exe
+D:\CollegeDotnetSolutions\Week3\Task 4\bin\Debug\net9.0\Task 4.deps.json
+D:\CollegeDotnetSolutions\Week3\Task 4\bin\Debug\net9.0\Task 4.runtimeconfig.json
+D:\CollegeDotnetSolutions\Week3\Task 4\bin\Debug\net9.0\Task 4.dll
+D:\CollegeDotnetSolutions\Week3\Task 4\bin\Debug\net9.0\Task 4.pdb
+D:\CollegeDotnetSolutions\Week3\Task 4\obj\Debug\net9.0\Task 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\CollegeDotnetSolutions\Week3\Task 4\obj\Debug\net9.0\Task 4.AssemblyInfoInputs.cache
+D:\CollegeDotnetSolutions\Week3\Task 4\obj\Debug\net9.0\Task 4.AssemblyInfo.cs
+D:\CollegeDotnetSolutions\Week3\Task 4\obj\Debug\net9.0\Task 4.csproj.CoreCompileInputs.cache
+D:\CollegeDotnetSolutions\Week3\Task 4\obj\Debug\net9.0\Task 4.sourcelink.json
+D:\CollegeDotnetSolutions\Week3\Task 4\obj\Debug\net9.0\Task 4.dll
+D:\CollegeDotnetSolutions\Week3\Task 4\obj\Debug\net9.0\refint\Task 4.dll
+D:\CollegeDotnetSolutions\Week3\Task 4\obj\Debug\net9.0\Task 4.pdb
+D:\CollegeDotnetSolutions\Week3\Task 4\obj\Debug\net9.0\Task 4.genruntimeconfig.cache
+D:\CollegeDotnetSolutions\Week3\Task 4\obj\Debug\net9.0\ref\Task 4.dll
